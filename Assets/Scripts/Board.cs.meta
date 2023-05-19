@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95a781b6e1eba471394c77ce88dc96c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MainPanel: {instanceID: 0}
+  - SudokuFieldPanel: {instanceID: 0}
+  - FieldPrefab: {fileID: 321798400150737107, guid: ec01ba2291ed040dab5411722b6d2c81, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
